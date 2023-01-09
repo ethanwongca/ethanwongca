@@ -1,7 +1,7 @@
 ### Hi there 👋
 - :sunglasses: My name is Ethan.
 - :round_pushpin: I am from Vancouver, Canada and attending McGill University in Montreal, Canada
-- 🔭 I’m currently working on a company's frontend.
+- 🔭 I’m currently working on Koi Continuity's frontend.
 - 🌱 I’m currently learning deep learning and computer vision.
 - 👯 I’m looking to collaborate on a Google Chrome Extension project. 
 - 💬 Talk to me about anything!
