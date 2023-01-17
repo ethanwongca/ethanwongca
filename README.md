@@ -9,7 +9,7 @@
 - ✒️: Blog https://medium.com/@ethanwongca
 
 <img src="https://github-readme-stats.vercel.app/api?username=ethanwongca&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ethanwongca"/>
-<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanwongca&layout=compact)](https://github.com/ethanwongca/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanwonca&show_icons=true&theme=radical)
 
 
