@@ -7,9 +7,3 @@
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/ethan-parker-wong-1bbb611b2/ 
 - 📧 Email: ethanwongca@gmail.com
 - ✒️: Blog https://medium.com/@ethanwongca
-
-<img src="https://github-readme-stats.vercel.app/api?username=ethanwongca&show_icons=true"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanwongca&layout=compact)](https://github.com/ethanwongca/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanwonca&show_icons=true&theme=radical)
-
-
