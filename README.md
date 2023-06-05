@@ -8,8 +8,10 @@
 
 <h3> Languages and Frameworks </h3>
 
-<img src = https://github.com/ethanwongca/ethanwongca/assets/87055387/5ae06087-8a3c-4122-a230-8dcd1114b45f width = 30px>
-![javascript](https://github.com/ethanwongca/ethanwongca/assets/87055387/4956de8e-3025-4854-91bd-cfcd570793bd)
+<img src = https://github.com/ethanwongca/ethanwongca/assets/87055387/5ae06087-8a3c-4122-a230-8dcd1114b45f width = 30px/>
+<img src =https://github.com/ethanwongca/ethanwongca/assets/87055387/4956de8e-3025-4854-91bd-cfcd570793bd  width = 30px/>
+<img src =https://github.com/ethanwongca/ethanwongca/assets/87055387/4956de8e-3025-4854-91bd-cfcd570793bd  width = 30px/>
+
 ![java](https://github.com/ethanwongca/ethanwongca/assets/87055387/581e47ec-3b78-421a-bbeb-1be62421e684)
   
 ![react](https://github.com/ethanwongca/ethanwongca/assets/87055387/66009246-4c6c-483c-bb85-65ff0861281c)
