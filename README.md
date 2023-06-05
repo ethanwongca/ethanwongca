@@ -8,7 +8,7 @@
 
 <h3> Languages and Frameworks </h3>
 
-![python](https://github.com/ethanwongca/ethanwongca/assets/87055387/5ae06087-8a3c-4122-a230-8dcd1114b45f)
+![python](https://github.com/ethanwongca/ethanwongca/assets/87055387/5ae06087-8a3c-4122-a230-8dcd1114b45f | width=30)
 ![javascript](https://github.com/ethanwongca/ethanwongca/assets/87055387/4956de8e-3025-4854-91bd-cfcd570793bd)
 ![java](https://github.com/ethanwongca/ethanwongca/assets/87055387/581e47ec-3b78-421a-bbeb-1be62421e684)
   
