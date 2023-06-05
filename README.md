@@ -2,8 +2,10 @@
 - :sunglasses: I study at McGill University
 - :round_pushpin: I am from Vancouver, Canada
 - 🔭 I’m currently working on Koi Continuity's frontend.
-- 🌱 I’m currently learning Google's ARCore and MoveNet
-- 💬 Talk to me about anything!
+- 🌱 I’m currently learning 
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/ethan-parker-wong-1bbb611b2/ 
 - 📧 Email: ethanwongca@gmail.com
-- ✒️: Blog https://medium.com/@ethanwongca
+
+<h3> Languages and Frameworks </h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
