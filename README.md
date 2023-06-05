@@ -7,5 +7,5 @@
 - 📧 Email: ethanwongca@gmail.com
 
 <h3> Languages and Frameworks </h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
           
