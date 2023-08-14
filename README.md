@@ -3,7 +3,7 @@
 - :round_pushpin: I am from Vancouver, Canada
 - 🔭 I’m currently working on an ML project
 - 🌱 I’m currently learning Computer Vision and NLPs
-- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/ethan-parker-wong-1bbb611b2/ 
+- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/ethanparkerwong/
 - 📧 Email: ethanwongca@gmail.com
 
 <h3> Languages and Frameworks </h3>
