@@ -1,7 +1,7 @@
 ### Hi my name is Ethan! 👋
 - :sunglasses: I study at McGill University
 - :round_pushpin: I am from Vancouver, Canada
-- 🔭 I’m currently working on Koi Continuity's frontend and being a UBC RA 
+- 🔭 I’m currently working on sn ML project
 - 🌱 I’m currently learning Computer Vision and NLPs
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/ethan-parker-wong-1bbb611b2/ 
 - 📧 Email: ethanwongca@gmail.com
