@@ -1,8 +1,8 @@
 ### Hi my name is Ethan! 👋
 - :sunglasses: I study at McGill University
-- :round_pushpin: I am from Vancouver, Canada
-- 🔭 I’m currently working on an ML project
-- 🌱 I’m currently learning Computer Vision and NLPs
+- :round_pushpin: I both American and Canadian
+- 🔭 I’m currently working on an NLP project
+- 🌱 I’m currently learning assembly
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/ethanparkerwong/
 - 📧 Email: ethanwongca@gmail.com
 
