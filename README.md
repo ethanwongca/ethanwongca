@@ -4,7 +4,6 @@ I'm a Computer Science student at UBC, passionate about software development and
 
 ## About Me
 - :sunglasses: I study at UBC 
-- :round_pushpin: I am both American and Canadian 
 - 🔭 I’m currently work for the UN and UBC
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/ethanparkerwong/
