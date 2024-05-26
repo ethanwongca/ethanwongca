@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning assembly and Swift
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/ethanparkerwong/
 - 📧 Email: ethanwongca@gmail.com
+- :computer: Website: https://ethanwongca.github.io/
 
 <h3> Languages and Frameworks </h3>
 
