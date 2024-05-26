@@ -1,6 +1,6 @@
 # Hi there, I'm Ethan! 👋
 
-I'm a Computer Science student at UBC, passionate about software development and AI. Currently, I'm working on developing AI tools for the UN and UBC,
+I'm a Computer Science student at UBC, passionate about software development and AI. Currently, I'm working on developing AI tools for the UN and UBC.
 
 ## About Me
 - :sunglasses: I study at UBC 
