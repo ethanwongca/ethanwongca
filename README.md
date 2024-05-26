@@ -24,7 +24,7 @@ I'm a Computer Science student at UBC, passionate about software development and
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## Research 
-**[Multilingual Sentiment Analysis](https://arxiv.org/abs/2405.06692)**: Research project on bias between French and English in SVM and Naive Bayes given equal datasets
+**[Multilingual Sentiment Analysis](https://arxiv.org/abs/2405.06692)**: Research project on bias between French and English in SVM and Naive Bayes given equal datasets.
 
 ## First Ever Project 
 **[Canadian Online MUN](https://github.com/ethanwongca/canadianonlinemun)**: First ever coding project, but developed a website and discord bots for a MUN conference that I founded that had 300 people attend from 37 countries and won Special Mention from the UNHCR. <br/>
