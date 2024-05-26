@@ -6,7 +6,7 @@ I'm a Computer Science student at UBC, passionate about software development and
 - :sunglasses: I study at UBC 
 - 🔭 I’m currently work for the UN and UBC
 - 🌱 I’m currently learning Typescript
-- 📫 How to reach me: Linkedin: https://www.linkedin.com/in/ethanparkerwong/
+- 📫 Linkedin: https://www.linkedin.com/in/ethanparkerwong/
 - 📧 Email: ethanwongca@gmail.com
 - :computer: Website: https://ethanwongca.github.io/
 
@@ -27,14 +27,14 @@ I'm a Computer Science student at UBC, passionate about software development and
 **[Multilingual Sentiment Analysis](https://arxiv.org/abs/2405.06692)**: Research project on bias between French and English in SVM and Naive Bayes given equal datasets
 
 ## First Ever Project 
-**[Canadian Online MUN](https://github.com/ethanwongca/canadianonlinemun)**: First ever coding project, but developed a website and discord bots for a MUN conference that I founded that had 300 people attend from 37 countries and won Special Mention from the UNHCR. 
-
-<details>
-  <summary>📈 My GitHub Stats</summary>
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanwongca&layout=compact&theme=radical)
-</details>
+**[Canadian Online MUN](https://github.com/ethanwongca/canadianonlinemun)**: First ever coding project, but developed a website and discord bots for a MUN conference that I founded that had 300 people attend from 37 countries and won Special Mention from the UNHCR. <br/>
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanparkerwong/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ethanwongca@gmail.com)
+
+<details>
+  <summary>📈 My GitHub Stats </summary>
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanwongca&layout=compact&theme=radical)
+</details>
