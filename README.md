@@ -6,7 +6,7 @@ I'm a Computer Science student at UBC, passionate about software development and
 - :sunglasses: I study at UBC 
 - 🔭 I’m currently work for the UN and UBC
 - 🌱 I’m currently learning Typescript
-- 📫 Linkedin: https://www.linkedin.com/in/ethanparkerwong/
+- 📫 Linkedin: https://www.linkedin.com/in/ethanwongca/
 - 📧 Email: ethanwongca@gmail.com
 - :computer: Website: https://ethanwongca.github.io/
 
@@ -30,7 +30,7 @@ I'm a Computer Science student at UBC, passionate about software development and
 **[Canadian Online MUN](https://github.com/ethanwongca/canadianonlinemun)**: First ever coding project, but developed a website and discord bots for a MUN conference that I founded that had 300 people attend from 37 countries and won Special Mention from the UNHCR. <br/>
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanparkerwong/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanwongca/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ethanwongca@gmail.com)
 
 <details>
