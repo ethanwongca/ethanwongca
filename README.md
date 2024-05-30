@@ -1,10 +1,10 @@
 # Hi there, I'm Ethan! 👋
 
-I'm a Computer Science student at UBC, passionate about software development and AI. Currently, I'm working on developing AI tools for UBC.
+I'm a Computer Science student at UBC, passionate about software development and AI. Currently, I'm working on developing AI tools for UBC and the UN.
 
 ## About Me
 - :sunglasses: I study at UBC 
-- 🔭 I’m currently work for UBC
+- 🔭 I’m currently work for UBC and UN
 - 🌱 I’m currently learning Typescript
 - 📫 Linkedin: https://www.linkedin.com/in/ethanwongca/
 - 📧 Email: ethanwongca@gmail.com
