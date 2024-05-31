@@ -8,7 +8,7 @@ I'm a Computer Science student at UBC, passionate about software development and
 - 🌱 I’m currently learning Typescript
 - 📫 Linkedin: https://www.linkedin.com/in/ethanwongca/
 - 📧 Email: ethanwongca@gmail.com
-- :computer: Website: https://ethanwongca.github.io/
+- :computer: Website: https://ethanwong.ca/
 
 ## My Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
