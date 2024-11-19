@@ -3,9 +3,9 @@
 I'm a Computer Science student at UBC, passionate about software development and AI. Currently, I'm working on developing AI tools for UBC.
 
 ## About Me
-- :sunglasses: I am incoming intern at Amazon
-- 🔭 I’m currently work for UBC as a Research Assistant
-- 🎧: I have worked for the United Nations
+- :sunglasses: I am an incoming intern at Amazon
+- 🔭 I currently work for UBC as a Research Assistant
+- 🎧 I have worked for the United Nations
 - 🌱 I’m currently learning Human Centric AI
 - 📫 Linkedin: https://www.linkedin.com/in/ethanwongca/
 - 📧 Email: ethanwongca@gmail.com
