@@ -4,11 +4,11 @@ I'm a Computer Science student at UBC, passionate about software development and
 
 ## About Me
 - :sunglasses: I am an incoming intern at Amazon
-- 🔭 I currently work for UBC as a Research Assistant
+- 🔭 I currently work for UBC as a Research Assistant in Natural Language Processing
 - 🎧 I have worked for the United Nations
-- 🌱 I’m currently learning Human Centric AI
+- 🌱 I’m currently learning Pytorch and Human-Artificial Intelligence Interaction
+- 🎨 In the future I want to get into Creative Programming (Cinder and C++)
 - 📫 Linkedin: https://www.linkedin.com/in/ethanwongca/
-- 📧 Email: ethanwongca@gmail.com
 - :computer: Website: https://ethanwong.ca/
 
 ## My Skills
