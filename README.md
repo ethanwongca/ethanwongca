@@ -1,6 +1,6 @@
 # Hi there, I'm Ethan! 👋
 
-I'm a Computer Science student at UBC, passionate about software development and AI. Currently, I'm working on developing AI tools for UBC.
+I'm a Computer Science student at UBC, passionate about computational social science, natural language procesisng, and applying artificial intelligence for the greater good. I like taking an interdisciplinary approach to things! 
 
 ## About Me
 - :sunglasses: I am an incoming intern at Amazon
@@ -33,9 +33,3 @@ I'm a Computer Science student at UBC, passionate about software development and
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanwongca/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ethanwongca@gmail.com)
-
-<details>
-  <summary>📈 My GitHub Stats </summary>
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanwongca&layout=compact&theme=radical)
-</details>
