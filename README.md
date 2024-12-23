@@ -1,6 +1,6 @@
 # Hi there, I'm Ethan! 👋
 
-I'm a Computer Science student at UBC, passionate about computational social science, natural language procesisng, and applying artificial intelligence for the greater good. I like taking an interdisciplinary approach to things! 
+I'm a Computer Science student at UBC, passionate about computational social science, natural language procesisng, and responsible AI. I like taking an interdisciplinary approach to things! 
 
 ## About Me
 - :sunglasses: I am an incoming intern at Amazon
