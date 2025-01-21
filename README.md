@@ -3,8 +3,7 @@
 I'm a Computer Science student at UBC, passionate about computational social science, natural language procesisng, and responsible AI. I like taking an interdisciplinary approach to things! 
 
 ## About Me
-- :sunglasses: I am an incoming intern at Amazon
-- 🔭 I currently work for UBC as a Research Assistant in Natural Language Processing
+- 🔭 I currently work for UBC as a Research Assistant in Natural Language Processing and HAI
 - 🎧 I have worked for the United Nations
 - 🌱 I’m currently learning Pytorch and Human-Artificial Intelligence Interaction
 - 🎨 I'm into creative programming and generative art, currently making art pieces on my free time!
