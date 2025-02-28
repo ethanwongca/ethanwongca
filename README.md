@@ -5,7 +5,7 @@ I'm a Computer Science student at UBC, passionate about computational social sci
 ## About Me
 - 🔭 I currently work for UBC as a Research Assistant in Natural Language Processing and HAI
 - 🎧 I have worked for the United Nations
-- 🌱 I’m currently learning Pytorch and Human-Artificial Intelligence Interaction
+- 🌱 I’m currently learning Pytorch 
 - 🎨 I'm into creative programming and generative art, currently making art pieces on my free time!
 - 📫 Linkedin: https://www.linkedin.com/in/ethanwongca/
 - :computer: Website: https://ethanwong.ca/
