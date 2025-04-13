@@ -1,14 +1,15 @@
 # Hi there, I'm Ethan! 👋
 
-I'm a Computer Science student at UBC, passionate about computational social science, natural language procesisng, and responsible AI. I like taking an interdisciplinary approach to things! 
+I'm passionate about natural language processing, deep learning, and computational social sciences. 
 
 ## About Me
-- 🔭 I currently work for UBC as a Research Assistant in Natural Language Processing and Human Aritificial Intelligence Interaction
-- 🎧 I have worked for the United Nations as an artificial intelligence fellow, and an incoming intern at Amazon! 
+- 🎧 I am at **Amazon** as a Business Intelligence Engineer Intern! 
+- 🔭 I have done natural language processing and deep learning research at **UBC**, **McGill**, and the **United Nations**.
 - 🌱 I’m currently learning Pytorch and some C on the side. 
 - 🎨 I'm into creative programming and some computer graphics. 
-- 📫 Linkedin: https://www.linkedin.com/in/ethanwongca/
-- :computer: Website: https://ethanwong.ca/
+- 📫 Linkedin: [here](https://www.linkedin.com/in/ethanwongca/)
+- :computer: Personal Website: [here](https://ethanwong.ca/)
+
 
 ## My Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
