@@ -23,7 +23,8 @@ I'm passionate about natural language processing, deep learning, and human-cente
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 
 ## Research 
-**[Multilingual Sentiment Analysis](https://arxiv.org/abs/2405.06692)**: Research project at McGill on bias between French and English in SVM and Naive Bayes given equal datasets.
+**[Multilingual Sentiment Analysis](https://arxiv.org/abs/2405.06692)**: Research project at McGill on bias between French and English in SVM and Naive Bayes given equal datasets. <br/>
+**[Deep Learning and Eye Tracking](https://github.com/ethanwongca/hai_work)**: Research project at UBC on deep learning and eye tracking.
 
 ## First Ever Project 
 **[Canadian Online MUN](https://github.com/ethanwongca/canadianonlinemun)**: First ever coding project, but developed a website and discord bots for a MUN conference that I founded that had 300 people attend from 37 countries and won Special Mention from the UNHCR. <br/>
