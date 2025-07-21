@@ -1,10 +1,10 @@
 # Hi there, I'm Ethan! 👋
 
-I'm passionate about natural language processing, deep learning, and human-centered artificial intelligence. 
+I'm passionate about natural language processing and human-centered artificial intelligence. I like interdisciplinary approaches to machine learning. 
 
 ## About Me
-- 🎧 I am at **Amazon** as a Business Intelligence Engineer Intern! 
-- 🔭 I have done natural language processing and deep learning research at **UBC**, **McGill**, and the **United Nations**.
+- 🎧 I've worked at **Amazon** SCOT Forecasting
+- 🔭 I have done natural language processing and human-centered AI research at **UBC**, **McGill**, and the **United Nations**.
 - 🌱 I’m currently learning Pytorch and Cuda 
 - 📫 Linkedin: [here](https://www.linkedin.com/in/ethanwongca/)
 - :computer: Personal Website: [here](https://ethanwong.ca/)
