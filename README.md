@@ -3,8 +3,9 @@
 I'm passionate about natural language processing and human-centered artificial intelligence. I like interdisciplinary approaches to machine learning. 
 
 ## About Me
-- 🎧 I've worked at **Amazon** SCOT Forecasting
-- 🔭 I have done natural language processing and human-centered AI research at **UBC**, **McGill**, and the **United Nations**.
+- 🎧 I've worked at **Amazon** SCOT Forecasting and at the **UN-OICT** Innovation Unit
+- 🔭 Currently, I'm doing NLP research at UBC's SLIME Lab
+- 🔍 Previously I have done NLP, Human-Centered AI, and Biology research at UBC, McGill, and the United Nations
 - 🌱 I’m currently learning Pytorch and Cuda 
 - 📫 Linkedin: [here](https://www.linkedin.com/in/ethanwongca/)
 - :computer: Personal Website: [here](https://ethanwong.ca/)
