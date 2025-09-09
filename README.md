@@ -5,8 +5,6 @@
 ## 🎯 What I'm Working On
 
 - 🔬 **Research Focus**: Mechanistic interpretability at **UBC SLIME Lab**
-- 🧠 **Current Exploration**: Understanding how AI models process information and making them more interpretable
-- 🌍 **Impact-Driven Work**: Applying NLP to solve real-world challenges in multilingual contexts
 
 ## 💼 Professional Experience
 
@@ -21,17 +19,14 @@
 
 ## 🔬 Featured Research
 
-### 📊 [Multilingual Sentiment Analysis](https://arxiv.org/abs/2405.06692)
-*arXiv | McGill University*  
-Investigated bias patterns between French and English sentiment classification using SVM and Naive Bayes models with balanced datasets. **Impact**: Identified systematic biases in cross-lingual sentiment analysis.
+#### 📊 [Multilingual Sentiment Analysis](https://arxiv.org/abs/2405.06692) 
+Investigated bias patterns between French and English sentiment classification using SVM and Naive Bayes models with balanced datasets. 
 
-### 👁️ [Deep Learning and Eye Tracking for Cognitive State Detection](https://github.com/ethanwongca/Human-AI-Interaction)
-*UBC Research Project*  
-Developed deep learning models integrated with eye-tracking technology to detect and classify cognitive states in real-time. **Applications**: Human-computer interaction, adaptive learning systems.
+#### 👁️ [Deep Learning and Eye Tracking for Cognitive State Detection](https://github.com/ethanwongca/Human-AI-Interaction)
+Developed deep learning models integrated with eye-tracking technology to detect and classify cognitive states. 
 
-### 🤟 [LLM-Enhanced Sign Language Processing](https://github.com/ethanwongca/NLP_Contrastive)
-*UBC Research Project*  
-Applied large language models to improve sign language inference and understanding. **Focus**: Accessibility technology and inclusive AI design.
+#### 🤟 [LLM-Enhanced Sign Language Processing](https://github.com/ethanwongca/NLP_Contrastive)
+Applied large language models to improve sign language inference and understanding.
 
 ## 🛠️ Technical Expertise
 
@@ -59,9 +54,6 @@ Applied large language models to improve sign language inference and understandi
 - **Human-Centered AI**: Designing AI systems that augment rather than replace human capabilities
 
 ## 🌟 Let's Connect!
-
-I'm always excited to discuss research collaborations, innovative projects, or opportunities to apply NLP and human-centered AI to real-world challenges.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanwongca/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethanwongca@gmail.com)
 [![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://ethanwong.ca/)
