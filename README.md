@@ -1,33 +1,83 @@
 # Hi there, I'm Ethan! 👋
 
-I'm passionate about natural language processing and human-centered artificial intelligence. I like interdisciplinary approaches to machine learning. 
+**NLP Researcher | Human-Centered AI Enthusiast | Interdisciplinary Problem Solver**
 
-## About Me
-- 🎧 I've worked at **Amazon** in SCOT Forecasting and with the **UN-OICT Innovation Unit**
-- 🔭 Currently, I'm an NLP researcher at the **UBC SLIME Lab**
-- 🔍 My research experience spans NLP, Human-Centered AI, and Biology, with past roles at **UBC**, **McGill**, and the **United Nations**.
-- 📝 I'm currently exploring genetic algorithms and evolutionary deep learning
-- 📫 Linkedin: [here](https://www.linkedin.com/in/ethanwongca/)
-- :computer: Personal Website: [here](https://ethanwong.ca/)
+I'm passionate about bridging the gap between cutting-edge natural language processing and human-centered design. Currently exploring how AI systems can better understand and serve human needs through interdisciplinary approaches that combine machine learning, cognitive science, and real-world impact.
 
+---
 
-## My Skills
+## 🎯 What I'm Working On
+
+- 🔬 **Research Focus**: Mechanistic interpretability at **UBC SLIME Lab**
+- 🧠 **Current Exploration**: Understanding how AI models process information and making them more interpretable
+- 🌍 **Impact-Driven Work**: Applying NLP to solve real-world challenges in multilingual contexts
+
+## 💼 Professional Experience
+
+**🎧 Amazon** - SCOT Forecasting Team  
+*Helped visualize our internal ML's results*
+
+**🌐 United Nations OICT Innovation Unit**  
+*Developed AI solutions for global humanitarian challenges*
+
+**🔬 Research Positions**  
+*NLP and Human-Centered AI research across **UBC**, **McGill**, and **UN***
+
+## 🔬 Featured Research & Projects
+
+### 📊 [Multilingual Sentiment Analysis](https://arxiv.org/abs/2405.06692)
+*arXiv | McGill University*  
+Investigated bias patterns between French and English sentiment classification using SVM and Naive Bayes models with balanced datasets. **Impact**: Identified systematic biases in cross-lingual sentiment analysis.
+
+### 👁️ [Deep Learning and Eye Tracking for Cognitive State Detection](https://github.com/ethanwongca/Human-AI-Interaction)
+*UBC Research Project*  
+Developed deep learning models integrated with eye-tracking technology to detect and classify cognitive states in real-time. **Applications**: Human-computer interaction, adaptive learning systems.
+
+### 🤟 [LLM-Enhanced Sign Language Processing](https://github.com/ethanwongca/NLP_Contrastive)
+*UBC Research Project*  
+Applied large language models to improve sign language inference and understanding. **Focus**: Accessibility technology and inclusive AI design.
+
+## 🛠️ Technical Expertise
+
+### **Core Programming**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=ml&logoColor=white)
+
+### **Web Development**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 
-## Research 
-**[Multilingual Sentiment Analysis](https://arxiv.org/abs/2405.06692)**: Research project at McGill on bias between French and English in SVM and Naive Bayes given equal datasets. <br/>
-**[Deep Learning and Eye Tracking](https://github.com/ethanwongca/Human-AI-Interaction)**: Research project at UBC on deep learning and eye tracking. <br/>
-**[LLM Sign Language](https://github.com/ethanwongca/NLP_Contrastive)**: Research project at UBC on LLMs and Sign Language
+### **AI/ML & Tools**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanwongca/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ethanwongca@gmail.com)
+## 🎓 Community & Teaching
+
+### **Workshop Leadership**
+- **[React Fundamentals Workshop](https://github.com/ethanwongca/McHacksReactWorkshop)** - Led interactive React training for 50+ developers at McGill's McHacks
+- **[Full-Stack Web Development Workshop](https://github.com/ethanwongca/CSUSxMcHacksWebDev)** - Designed and delivered comprehensive HTML/CSS/JS curriculum for CSUS x McHacks collaboration
+
+*Passionate about making complex technical concepts accessible to diverse learning audiences.*
+
+## 📈 Research Interests
+
+- **Mechanistic Interpretability**: Understanding how neural networks process and represent information
+- **Multilingual NLP**: Addressing bias and improving performance across language boundaries  
+- **Human-Centered AI**: Designing AI systems that augment rather than replace human capabilities
+- **Genetic Algorithms**: Exploring evolutionary approaches to optimization problems
+- **Cognitive Computing**: Bridging AI and cognitive science for better human-machine interaction
+
+## 🌟 Let's Connect!
+
+I'm always excited to discuss research collaborations, innovative projects, or opportunities to apply NLP and human-centered AI to real-world challenges.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanwongca/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethanwongca@gmail.com)
+[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://ethanwong.ca/)
+
+---
+*"Building AI systems that understand and amplify human potential"*
