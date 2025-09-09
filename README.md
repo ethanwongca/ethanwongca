@@ -26,6 +26,7 @@ I'm passionate about natural language processing and human-centered artificial i
 ## Research 
 **[Multilingual Sentiment Analysis](https://arxiv.org/abs/2405.06692)**: Research project at McGill on bias between French and English in SVM and Naive Bayes given equal datasets. <br/>
 **[Deep Learning and Eye Tracking](https://github.com/ethanwongca/Human-AI-Interaction)**: Research project at UBC on deep learning and eye tracking.
+**[LLM Sign Language](https://github.com/ethanwongca/NLP_Contrastive)**: Research project at UBC on LLMs and Sign Language
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanwongca/)
