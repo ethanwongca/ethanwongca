@@ -2,10 +2,6 @@
 
 **NLP Researcher | Human-Centered AI Enthusiast | Interdisciplinary Problem Solver**
 
-I'm passionate about bridging the gap between cutting-edge natural language processing and human-centered design. Currently exploring how AI systems can better understand and serve human needs through interdisciplinary approaches that combine machine learning, cognitive science, and real-world impact.
-
----
-
 ## 🎯 What I'm Working On
 
 - 🔬 **Research Focus**: Mechanistic interpretability at **UBC SLIME Lab**
@@ -23,7 +19,7 @@ I'm passionate about bridging the gap between cutting-edge natural language proc
 **🔬 Research Positions**  
 *NLP and Human-Centered AI research across **UBC**, **McGill**, and **UN***
 
-## 🔬 Featured Research & Projects
+## 🔬 Featured Research
 
 ### 📊 [Multilingual Sentiment Analysis](https://arxiv.org/abs/2405.06692)
 *arXiv | McGill University*  
@@ -39,19 +35,14 @@ Applied large language models to improve sign language inference and understandi
 
 ## 🛠️ Technical Expertise
 
-### **Core Programming**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-### **Web Development**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-### **AI/ML & Tools**
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -61,15 +52,11 @@ Applied large language models to improve sign language inference and understandi
 - **[React Fundamentals Workshop](https://github.com/ethanwongca/McHacksReactWorkshop)** - Led interactive React training for 50+ developers at McGill's McHacks
 - **[Full-Stack Web Development Workshop](https://github.com/ethanwongca/CSUSxMcHacksWebDev)** - Designed and delivered comprehensive HTML/CSS/JS curriculum for CSUS x McHacks collaboration
 
-*Passionate about making complex technical concepts accessible to diverse learning audiences.*
-
 ## 📈 Research Interests
 
 - **Mechanistic Interpretability**: Understanding how neural networks process and represent information
 - **Multilingual NLP**: Addressing bias and improving performance across language boundaries  
 - **Human-Centered AI**: Designing AI systems that augment rather than replace human capabilities
-- **Genetic Algorithms**: Exploring evolutionary approaches to optimization problems
-- **Cognitive Computing**: Bridging AI and cognitive science for better human-machine interaction
 
 ## 🌟 Let's Connect!
 
