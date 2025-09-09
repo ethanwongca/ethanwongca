@@ -36,5 +36,3 @@ I am currently working on: <br/>
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethanwongca@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://ethanwong.ca/)
 
----
-*"Building AI systems that understand and amplify human potential"*
