@@ -20,7 +20,7 @@
 ## 🔬 Featured Research
 
 #### 📊 [Multilingual Sentiment Analysis](https://arxiv.org/abs/2405.06692) 
-Investigated bias patterns between French and English sentiment classification using SVM and Naive Bayes models with balanced datasets. 
+Investigated bias patterns between French and English sentiment classification using tradional ML models. 
 
 #### 👁️ [Deep Learning and Eye Tracking for Cognitive State Detection](https://github.com/ethanwongca/Human-AI-Interaction)
 Developed deep learning models integrated with eye-tracking technology to detect and classify cognitive states. 
@@ -50,7 +50,6 @@ Applied large language models to improve sign language inference and understandi
 ## 📈 Research Interests
 
 - **Mechanistic Interpretability**: Understanding how neural networks process and represent information
-- **Multilingual NLP**: Addressing bias and improving performance across language boundaries  
 - **Human-Centered AI**: Designing AI systems that augment rather than replace human capabilities
 
 ## 🌟 Let's Connect!
