@@ -28,7 +28,6 @@ I am currently working on: <br/>
 **[Web Development Workshop](https://github.com/ethanwongca/CSUSxMcHacksWebDev)** - Taught HTML/CSS/JS fundamentals at CSUS x McHacks event
 
 ## 📈 Research Interests
-**Mechanistic Interpretability** - Understanding how neural networks process information  
 **Human-Centered AI** - Designing AI systems that augment human capabilities
 
 ## 🌟 Connect
