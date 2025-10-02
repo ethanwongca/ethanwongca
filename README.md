@@ -1,9 +1,6 @@
 # Hi there, I'm Ethan! 👋
 **NLP Researcher | Human-Centered AI Enthusiast** <br/>
 
-I am currently working on: <br/>
-- 🔬 Mechanistic interpretability and human-centered AI research at **UBC SLIME Lab**
-
 ## 💼 Experience
 **🎧 Amazon** - SCOT Forecasting Team, visualizing our internal ML  
 **🌐 UN OICT Innovation Unit** - AI solutions for humanitarian challenges  
