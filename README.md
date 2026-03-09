@@ -2,6 +2,7 @@
 **NLP Researcher | Human-Centered AI Enthusiast** <br/>
 
 ## 💼 Experience
+**:video_game: Electronic Arts** - AI Engineer, building AI for EA <br/>
 **🎧 Amazon** - SCOT Forecasting Team, visualizing our internal ML  
 **🌐 UN OICT Innovation Unit** - AI solutions for humanitarian challenges  
 **🔬 Research Positions** - NLP and Human-Centered AI across UBC, McGill, and UN
