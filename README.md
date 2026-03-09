@@ -1,11 +1,11 @@
 # Hi there, I'm Ethan! 👋
-**NLP Researcher | Human-Centered AI Enthusiast** <br/>
+**AI Safety, NLP, and Human-Centered AI Researcher** <br/>
 
 ## 💼 Experience
-**:video_game: Electronic Arts** - AI Engineer, building AI for EA <br/>
+**:video_game: Electronic Arts** - Building AI to accelerate game development <br/>
 **🎧 Amazon** - SCOT Forecasting Team, visualizing our internal ML  
 **🌐 UN OICT Innovation Unit** - AI solutions for humanitarian challenges  
-**🔬 Research Positions** - NLP and Human-Centered AI across UBC, McGill, and UN
+**🔬 Research Positions** - NLP, AI Safety, and Human-Centered AI across UBC, McGill, and UN
 
 ## 🔬 Featured Research
 **📊 [Multilingual Sentiment Analysis](https://arxiv.org/abs/2405.06692)** - Investigated bias patterns between French and English sentiment classification using traditional ML models  
