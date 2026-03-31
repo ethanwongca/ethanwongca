@@ -8,8 +8,7 @@
 **🌐 UN OICT Innovation Unit** - AI solutions for humanitarian challenges  
 **🔬 Research Positions** - NLP, AI Safety, and Human-Centered AI across UBC, McGill, and UN
 
-## 🔬 Featured Research
-**📊 [Multilingual Sentiment Analysis](https://arxiv.org/abs/2405.06692)** - Investigated bias patterns between French and English sentiment classification using traditional ML models  
+## 🔬 Featured Research 
 **👁️ [Deep Learning + Eye Tracking](https://github.com/ethanwongca/Human-AI-Interaction)** - Developed deep learning models with eye-tracking to detect cognitive states  
 **🤟 [LLM Sign Language Processing](https://github.com/ethanwongca/NLP_Contrastive)** - Applied LLMs to improve sign language inference and understanding
 
