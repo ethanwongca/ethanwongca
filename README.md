@@ -1,5 +1,6 @@
 # Hi there, I'm Ethan! 👋
-**AI Safety, NLP, and Human-Centered AI Researcher** <br/>
+**AI Safety and NLP Researcher** <br/>
+**Currently Exploring Culture and LLMs along with some AI for Drug Discovery on the side** <br/>
 
 ## 💼 Experience
 **:video_game: Electronic Arts** - Building AI to accelerate game development <br/>
@@ -24,10 +25,6 @@
 ## 🎓 Community Teaching
 **[React Fundamentals Workshop](https://github.com/ethanwongca/McHacksReactWorkshop)** - Led interactive training for 50+ developers at McGill's McHacks  
 **[Web Development Workshop](https://github.com/ethanwongca/CSUSxMcHacksWebDev)** - Taught HTML/CSS/JS fundamentals at CSUS x McHacks event
-
-## 📈 Research Interests
-**Human-Centered AI** - Designing AI systems that augment human capabilities
-
 ## 🌟 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanwongca/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethanwongca@gmail.com)
