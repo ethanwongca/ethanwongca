@@ -1,5 +1,5 @@
 # Hi there, I'm Ethan! 👋
-**Human-Centered AI and NLP Researcher and Masters Student at the University of Toronto** <br/>
+**Human-Centered AI and NLP Researcher + Masters Student at the University of Toronto** <br/>
 **Currently Exploring Culture and LLMs along with some AI for Drug Discovery on the side** <br/>
 
 ## 💼 Experience
