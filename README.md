@@ -1,6 +1,5 @@
 # Hi there, I'm Ethan! 👋
 **Human-Centered AI and NLP Researcher + Masters Student at the University of Toronto** <br/>
-**Currently Exploring Culture and LLMs along with some AI for Drug Discovery on the side** <br/>
 
 ## 💼 Experience
 **:video_game: Electronic Arts** - Building AI to accelerate game development <br/>
@@ -8,9 +7,9 @@
 **🌐 UN OICT Innovation Unit** - AI solutions for humanitarian challenges  
 **🔬 Research Positions** - NLP, AI Safety, and Human-Centered AI across UBC, McGill, and UN
 
-## 🔬 Featured Research 
-**👁️ [Deep Learning + Eye Tracking](https://github.com/ethanwongca/Human-AI-Interaction)** - Developed deep learning models with eye-tracking to detect cognitive states  
-**🤟 [LLM Sign Language Processing](https://github.com/ethanwongca/NLP_Contrastive)** - Applied LLMs to improve sign language inference and understanding
+## 🔬 Research Projects
+* **[Deep Learning + Eye Tracking](https://github.com/ethanwongca/Human-AI-Interaction)** - Developed deep learning models with eye-tracking to detect cognitive states
+* **[LLM Sign Language Processing](https://github.com/ethanwongca/NLP_Contrastive)** - Applied LLMs to improve sign language inference and understanding
 
 ## 🛠️ Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -21,11 +20,13 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🎓 Community Teaching
-**[React Fundamentals Workshop](https://github.com/ethanwongca/McHacksReactWorkshop)** - Led interactive training for 50+ developers at McGill's McHacks  
-**[Web Development Workshop](https://github.com/ethanwongca/CSUSxMcHacksWebDev)** - Taught HTML/CSS/JS fundamentals at CSUS x McHacks event
+## 🎓 Teaching & Workshops
+* **[AI Bias Workshop](https://github.com/ethanwongca/AI-Bias-Workshop)** - Workshop on AI Bias for High School Students
+* **[React Fundamentals Workshop](https://github.com/ethanwongca/McHacksReactWorkshop)** - Led interactive training for 50+ developers at McGill's McHacks
+* **[Web Development Workshop](https://github.com/ethanwongca/CSUSxMcHacksWebDev)** - Taught HTML/CSS/JS fundamentals at CSUS x McHacks event
+
 ## 🌟 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanwongca/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethanwongca@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://ethanwong.ca/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://ethanwongca.github.io/)
 
