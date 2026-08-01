@@ -1,11 +1,11 @@
 # Hi there, I'm Ethan! 👋
-**Human-Centered AI and NLP Researcher + Masters Student at the University of Toronto** <br/>
+**Masters Student Researching NLP and Culture at the University of Toronto** <br/>
 
 ## 💼 Experience
 **:video_game: Electronic Arts** - Building AI to accelerate game development <br/>
 **🎧 Amazon** - SCOT Forecasting Team, visualizing our internal ML  
 **🌐 UN OICT Innovation Unit** - AI solutions for humanitarian challenges  
-**🔬 Research Positions** - NLP, AI Safety, and Human-Centered AI across UBC, McGill, and UN
+**🔬 Research @ UBC** - NLP, Interpretability, and Human-Centered AI
 
 ## 🔬 Research Projects
 * **[Deep Learning + Eye Tracking](https://github.com/ethanwongca/Human-AI-Interaction)** - Developed deep learning models with eye-tracking to detect cognitive states
