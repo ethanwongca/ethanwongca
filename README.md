@@ -21,6 +21,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🎓 Teaching & Workshops
+* **CSC 110 at the University of Toronto** - Tutorial content is here
 * **[AI Bias Workshop](https://github.com/ethanwongca/AI-Bias-Workshop)** - Workshop on AI Bias for High School Students
 * **[React Fundamentals Workshop](https://github.com/ethanwongca/McHacksReactWorkshop)** - Led interactive training for 50+ developers at McGill's McHacks
 * **[Web Development Workshop](https://github.com/ethanwongca/CSUSxMcHacksWebDev)** - Taught HTML/CSS/JS fundamentals at CSUS x McHacks event
