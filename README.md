@@ -1,5 +1,5 @@
 # Hi there, I'm Ethan! 👋
-**Masters Student Researching NLP and Culture at the University of Toronto** <br/>
+**Masters Student Researching NLP and Culture @ the University of Toronto / Faculty Affiliate Researcher @ Vector Institute** <br/>
 
 ## 💼 Experience
 **:video_game: Electronic Arts** - Building AI to accelerate game development <br/>
