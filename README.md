@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Ethan! 👋
+**Masters Student Researching NLP and Culture @ the University of Toronto / Faculty Affiliate Researcher @ Vector Institute** <br/>
 
-<!--
-**ethanwongca/ethanwongca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Experience
+* **Electronic Arts** - Building AI to accelerate game development <br/>
+* **Amazon** - SCOT Forecasting Team, visualizing our internal ML  
+* **UN OICT Innovation Unit** - AI solutions for humanitarian challenges  
+* **Research @ UBC/McGill** - NLP, Interpretability, and Human-Centered AI
 
-Here are some ideas to get you started:
+## 🔬 Research Projects
+* **[Deep Learning + Eye Tracking](https://github.com/ethanwongca/Human-AI-Interaction)** - Developed deep learning models with eye-tracking to detect cognitive states
+* **[LLM Sign Language Processing](https://github.com/ethanwongca/NLP_Contrastive)** - Applied LLMs to improve sign language inference and understanding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Teaching & Workshops
+* **CSC 110 at the University of Toronto**
+* **[AI Bias Workshop](https://github.com/ethanwongca/AI-Bias-Workshop)** - Workshop on AI Bias for High School Students
+* **[React Fundamentals Workshop](https://github.com/ethanwongca/McHacksReactWorkshop)** - Led interactive training for 50+ developers at McGill's McHacks
+* **[Web Development Workshop](https://github.com/ethanwongca/CSUSxMcHacksWebDev)** - Taught HTML/CSS/JS fundamentals at CSUS x McHacks event
+
+## 🛠️ Technical Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
