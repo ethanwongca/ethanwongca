@@ -12,7 +12,7 @@
 * **[LLM Sign Language Processing](https://github.com/ethanwongca/NLP_Contrastive)** - Applied LLMs to improve sign language inference and understanding
 
 ## 🎓 Teaching & Workshops
-* **CSC 110 at the University of Toronto**
+* **CSC2611H and CSC110 at the University of Toronto**
 * **[AI Bias Workshop](https://github.com/ethanwongca/AI-Bias-Workshop)** - Workshop on AI Bias for High School Students
 * **[React Fundamentals Workshop](https://github.com/ethanwongca/McHacksReactWorkshop)** - Led interactive training for 50+ developers at McGill's McHacks
 * **[Web Development Workshop](https://github.com/ethanwongca/CSUSxMcHacksWebDev)** - Taught HTML/CSS/JS fundamentals at CSUS x McHacks event
