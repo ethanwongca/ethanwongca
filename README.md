@@ -1,27 +1,21 @@
-# Hi there, I'm Ethan! 👋
-**Masters Student Researching NLP and Culture @ the University of Toronto / Faculty Affiliate Researcher @ Vector Institute** <br/>
+<h1 align="center">Ethan Wong</h1>
+<p align="center">
+  MSc @ University of Toronto · Faculty Affiliate Researcher @ Vector Institute
+</p>
 
-## 💼 Experience
-* **Electronic Arts** - Building AI to accelerate game development <br/>
-* **Amazon** - SCOT Forecasting Team, visualizing our internal ML  
-* **UN OICT Innovation Unit** - AI solutions for humanitarian challenges  
-* **Research @ UBC/McGill** - NLP, Interpretability, and Human-Centered AI
+---
 
-## 🔬 Research Projects
-* **[Deep Learning + Eye Tracking](https://github.com/ethanwongca/Human-AI-Interaction)** - Developed deep learning models with eye-tracking to detect cognitive states
-* **[LLM Sign Language Processing](https://github.com/ethanwongca/NLP_Contrastive)** - Applied LLMs to improve sign language inference and understanding
+I research NLP and culture, and I'm mostly interested in how people and AI actually work together: agents, language models, and whether those models understand the people using them.
 
-## 🎓 Teaching & Workshops
-* **CSC2611H and CSC110 at the University of Toronto**
-* **[AI Bias Workshop](https://github.com/ethanwongca/AI-Bias-Workshop)** - Workshop on AI Bias for High School Students
-* **[React Fundamentals Workshop](https://github.com/ethanwongca/McHacksReactWorkshop)** - Led interactive training for 50+ developers at McGill's McHacks
-* **[Web Development Workshop](https://github.com/ethanwongca/CSUSxMcHacksWebDev)** - Taught HTML/CSS/JS fundamentals at CSUS x McHacks event
+I also like building things, not just studying them. A lot of what I make starts as a tool I needed for my own research.
 
-## 🛠️ Technical Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### Previously
+Electronic Arts · Amazon · UN
+
+### Teaching
+- CSC2611: Computational Models of Semantic Change
+- CSC110: Foundations of Computer Science I
+- Workshops on AI bias, React, and web dev
+
+### What's here
+My research, tools I've built for my own learning, hackathon projects, and other things I just felt like making.
