@@ -18,6 +18,7 @@ I also like **building things**, not just studying them. A lot of what I make st
 
 ### Teaching
 - **CSC2611**: Computational Models of Semantic Change
+- **CSC384**: Introduction to Artificial Intelligence
 - **CSC110**: Foundations of Computer Science I
 - Workshops on **AI bias**, **React**, and **web dev**
 
